@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/chris/Solutions/Yodeck_SDK/Yodeck/YodekSDK/YodekSDK.csproj": {}
+    "/home/chris/Solutions/Yodeck_SDK/YodekSDK/YodekSDK.csproj": {}
   },
   "projects": {
-    "/home/chris/Solutions/Yodeck_SDK/Yodeck/YodekSDK/YodekSDK.csproj": {
+    "/home/chris/Solutions/Yodeck_SDK/YodekSDK/YodekSDK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chris/Solutions/Yodeck_SDK/Yodeck/YodekSDK/YodekSDK.csproj",
+        "projectUniqueName": "/home/chris/Solutions/Yodeck_SDK/YodekSDK/YodekSDK.csproj",
         "projectName": "YodekSDK",
-        "projectPath": "/home/chris/Solutions/Yodeck_SDK/Yodeck/YodekSDK/YodekSDK.csproj",
+        "projectPath": "/home/chris/Solutions/Yodeck_SDK/YodekSDK/YodekSDK.csproj",
         "packagesPath": "/home/chris/.nuget/packages/",
-        "outputPath": "/home/chris/Solutions/Yodeck_SDK/Yodeck/YodekSDK/obj/",
+        "outputPath": "/home/chris/Solutions/Yodeck_SDK/YodekSDK/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/chris/.nuget/NuGet/NuGet.Config"

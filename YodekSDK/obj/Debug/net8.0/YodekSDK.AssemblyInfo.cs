@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YodekSDK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09673eadf85ff7519cf4439528cbfe056f9c9dfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253e2c50f062a1a914748694e47f4d4ac4a45f44")]
 [assembly: System.Reflection.AssemblyProductAttribute("YodekSDK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YodekSDK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
